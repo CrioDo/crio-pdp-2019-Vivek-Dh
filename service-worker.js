@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crio-pdp-2019-Vivek-Dh/precache-manifest.4dd3dac66609d56938aa3ba243c5e5d1.js"
+  "/crio-pdp-2019-Vivek-Dh/precache-manifest.02ff0abbc4369ec384bd7c05a6d91c4a.js"
 );
 
 self.addEventListener('message', (event) => {
