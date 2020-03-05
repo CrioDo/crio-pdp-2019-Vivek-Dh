@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/crio-pdp-2019-Vivek-Dh/static/css/main.8ca1969d.chunk.css",
-    "main.js": "/crio-pdp-2019-Vivek-Dh/static/js/main.1b857b99.chunk.js",
-    "main.js.map": "/crio-pdp-2019-Vivek-Dh/static/js/main.1b857b99.chunk.js.map",
+    "main.js": "/crio-pdp-2019-Vivek-Dh/static/js/main.ee47b0d5.chunk.js",
+    "main.js.map": "/crio-pdp-2019-Vivek-Dh/static/js/main.ee47b0d5.chunk.js.map",
     "runtime-main.js": "/crio-pdp-2019-Vivek-Dh/static/js/runtime-main.240cb555.js",
     "runtime-main.js.map": "/crio-pdp-2019-Vivek-Dh/static/js/runtime-main.240cb555.js.map",
     "static/css/2.b3ff1c62.chunk.css": "/crio-pdp-2019-Vivek-Dh/static/css/2.b3ff1c62.chunk.css",
-    "static/js/2.f2976cc3.chunk.js": "/crio-pdp-2019-Vivek-Dh/static/js/2.f2976cc3.chunk.js",
-    "static/js/2.f2976cc3.chunk.js.map": "/crio-pdp-2019-Vivek-Dh/static/js/2.f2976cc3.chunk.js.map",
+    "static/js/2.2fc70fb8.chunk.js": "/crio-pdp-2019-Vivek-Dh/static/js/2.2fc70fb8.chunk.js",
+    "static/js/2.2fc70fb8.chunk.js.map": "/crio-pdp-2019-Vivek-Dh/static/js/2.2fc70fb8.chunk.js.map",
     "index.html": "/crio-pdp-2019-Vivek-Dh/index.html",
-    "precache-manifest.02ff0abbc4369ec384bd7c05a6d91c4a.js": "/crio-pdp-2019-Vivek-Dh/precache-manifest.02ff0abbc4369ec384bd7c05a6d91c4a.js",
+    "precache-manifest.10edc99cbce7e3fdedfd007c70adfa1a.js": "/crio-pdp-2019-Vivek-Dh/precache-manifest.10edc99cbce7e3fdedfd007c70adfa1a.js",
     "service-worker.js": "/crio-pdp-2019-Vivek-Dh/service-worker.js",
     "static/css/2.b3ff1c62.chunk.css.map": "/crio-pdp-2019-Vivek-Dh/static/css/2.b3ff1c62.chunk.css.map",
     "static/css/main.8ca1969d.chunk.css.map": "/crio-pdp-2019-Vivek-Dh/static/css/main.8ca1969d.chunk.css.map",
-    "static/js/2.f2976cc3.chunk.js.LICENSE.txt": "/crio-pdp-2019-Vivek-Dh/static/js/2.f2976cc3.chunk.js.LICENSE.txt",
+    "static/js/2.2fc70fb8.chunk.js.LICENSE.txt": "/crio-pdp-2019-Vivek-Dh/static/js/2.2fc70fb8.chunk.js.LICENSE.txt",
     "static/media/crio-logo-white.svg": "/crio-pdp-2019-Vivek-Dh/static/media/crio-logo-white.c9536e04.svg",
     "static/media/crio-logo.svg": "/crio-pdp-2019-Vivek-Dh/static/media/crio-logo.63be71d0.svg",
     "static/media/mil3biryani.png": "/crio-pdp-2019-Vivek-Dh/static/media/mil3biryani.847a89e4.png",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.240cb555.js",
     "static/css/2.b3ff1c62.chunk.css",
-    "static/js/2.f2976cc3.chunk.js",
+    "static/js/2.2fc70fb8.chunk.js",
     "static/css/main.8ca1969d.chunk.css",
-    "static/js/main.1b857b99.chunk.js"
+    "static/js/main.ee47b0d5.chunk.js"
   ]
 }
